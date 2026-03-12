@@ -1,4 +1,4 @@
-# Pletor Extract Image
+# Image to Json
 
 An AI skill for Claude that extracts generation-ready JSON specs from reference images. Analyzes what's in the image, then rewrites every value into short, punchy, specific content that image models actually respond to.
 
